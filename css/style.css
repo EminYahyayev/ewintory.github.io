@@ -125,17 +125,17 @@ h2 {
 }
 
 .facebook-hover {
-	background-image: url('img/facebook-hover.png');
+	background-image: url('/img/facebook-hover.png');
 }
 .google-hover {
-	background-image: url('img/google-hover.png');
+	background-image: url('/img/google-hover.png');
 }
 .github-hover {
-	background-image: url('img/github-hover.png');
+	background-image: url('/img/github-hover.png');
 }
 .linkedin-hover {
-	background-image: url('img/linkedin-hover.png');
+	background-image: url('/img/linkedin-hover.png');
 }
 .vk-hover {
-	background-image: url('img/vk-hover.png');
+	background-image: url('/img/vk-hover.png');
 }
