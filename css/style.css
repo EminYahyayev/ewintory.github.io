@@ -107,7 +107,7 @@ h2 {
     color: #FFFFFF;
 }
 
-.social-slide {
+#social a {
 	height: 48px;
 	width: 48px;
 	margin-left: 20px;
@@ -119,10 +119,7 @@ h2 {
 	transition: all ease 0.3s;
 }
 
-#social {
-}
-
-.social-slide:hover {
+#social a:hover {
 	background-position: 0px -48px;
 	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
 }
