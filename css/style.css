@@ -110,7 +110,7 @@ h2 {
 .social-slide {
 	height: 48px;
 	width: 48px;
-	margin: 10px;
+	margin-left: 20px;
 	float: left;
 	-webkit-transition: all ease 0.3s;
 	-moz-transition: all ease 0.3s;
